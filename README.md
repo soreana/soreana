@@ -6,7 +6,6 @@
 
 - 🔭 I'm currently working on [Apache Cloudstack](https://github.com/apache/cloudstack) 
 - 🌱 I'm currenlty learning Kubernetes, SDN, BPF and Golang
-- 👯 I’m looking to collaborate on open source project.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sina-kashipazha/) or my [website](https://sina.kashipazha.com/)
 - ⚡ Fun fact: I love minecraft and scale modeles.
 
